@@ -64,3 +64,47 @@ Based on the wireframes that were developed, I was able to prototype some initia
 
 The prototypes above highlight specific desired attributes of the product. We can see there is a central theme in which the user is able to identify their devices and select their desired device to connect too. 
 
+### Mid-Fidelity Design 
+
+After prototying the general design layouts, I was able to gather the feedback from the prototypes and develop a mid-fidelity layout of the design. Here we have a  more concise version of the basic prorotypes seen above. This prototype highlights the users needs and desires while maintaning simplicity to ensure the flow is undistruped and the objectives of the product are able to be completed. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/152194715-18820431-bb28-449a-a241-c804346debdc.png">
+  </p>
+
+At this point in the design process, I have a solid foundation to take as I move forward into the integration of more thematic design elements. 
+
+#### Logo Integration 
+
+Part of the prototyping stage was to integrate a logo as part of the design. Once the main design layout of the app was complete I was able to take what I understand of the product and create logos I feel fit the look and feel of the product itself. 
+
+*Below highlight some of the logos that were developed for this product.*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/152184601-041ca080-107a-483a-a4d9-2b3856581b6d.png">
+  </p>
+
+#### Color and Theme Development
+
+While developing the usability and flow of this project it was also important to take into consideration and develop a strong color palette.
+
+Within user experience design, I find it important to include a strong demonstration of color and believe color reinforces the functional and aesthetic qualities of a product. Color can set the mood or the preception of the product you are designing for. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/152191881-73110f82-d5ab-473c-baac-e6808f310279.png">
+  </p> 
+  
+ The overall theme of the design was to be simplistic and clean while maintaining cohesive usability.  
+ 
+ 
+### Final Iteration 
+
+The final iteration of this project highlights a simplistic user flow where users can feel confident connecting their device to bluetooth and successfully use the product. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/152197082-03f0b6d5-0188-451e-a65f-ee9d42692cea.png">
+  </p> 
+  
+ ![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/b0854642-edc7-402f-8efa-47b02d6a1ab2.gif?ClientID=vimeo-core-prod&Date=1643820903&Signature=99e140e148d1bff068c2e7b2b7ef2fade713f3af)
+
+View the entire demonstration [here](https://vimeo.com/manage/videos).
